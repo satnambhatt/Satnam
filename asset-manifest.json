@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Satnam/static/css/main.20e1eaea.chunk.css",
-    "main.js": "/Satnam/static/js/main.08c2e902.chunk.js",
-    "main.js.map": "/Satnam/static/js/main.08c2e902.chunk.js.map",
+    "main.js": "/Satnam/static/js/main.d5366249.chunk.js",
+    "main.js.map": "/Satnam/static/js/main.d5366249.chunk.js.map",
     "runtime-main.js": "/Satnam/static/js/runtime-main.d3dc2aa9.js",
     "runtime-main.js.map": "/Satnam/static/js/runtime-main.d3dc2aa9.js.map",
     "static/css/2.e4346227.chunk.css": "/Satnam/static/css/2.e4346227.chunk.css",
     "static/js/2.6c64b110.chunk.js": "/Satnam/static/js/2.6c64b110.chunk.js",
     "static/js/2.6c64b110.chunk.js.map": "/Satnam/static/js/2.6c64b110.chunk.js.map",
     "index.html": "/Satnam/index.html",
-    "precache-manifest.96cb03fda237ad4cc85165f512176b6f.js": "/Satnam/precache-manifest.96cb03fda237ad4cc85165f512176b6f.js",
+    "precache-manifest.41fcc8c83d2cace2428652d1a1b9e584.js": "/Satnam/precache-manifest.41fcc8c83d2cace2428652d1a1b9e584.js",
     "service-worker.js": "/Satnam/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/Satnam/static/css/2.e4346227.chunk.css.map",
     "static/css/main.20e1eaea.chunk.css.map": "/Satnam/static/css/main.20e1eaea.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.6c64b110.chunk.js",
     "static/css/main.20e1eaea.chunk.css",
-    "static/js/main.08c2e902.chunk.js"
+    "static/js/main.d5366249.chunk.js"
   ]
 }
