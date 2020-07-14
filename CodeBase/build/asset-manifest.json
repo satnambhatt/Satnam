@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Satnam/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Satnam/static/js/main.ddf0951a.chunk.js",
+    "main.js.map": "/Satnam/static/js/main.ddf0951a.chunk.js.map",
+    "runtime-main.js": "/Satnam/static/js/runtime-main.d3dc2aa9.js",
+    "runtime-main.js.map": "/Satnam/static/js/runtime-main.d3dc2aa9.js.map",
+    "static/js/2.763b34e5.chunk.js": "/Satnam/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/Satnam/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/Satnam/index.html",
+    "precache-manifest.7e043170d21083155aa86725db93a90b.js": "/Satnam/precache-manifest.7e043170d21083155aa86725db93a90b.js",
+    "service-worker.js": "/Satnam/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Satnam/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/Satnam/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Satnam/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3dc2aa9.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ddf0951a.chunk.js"
+  ]
+}
