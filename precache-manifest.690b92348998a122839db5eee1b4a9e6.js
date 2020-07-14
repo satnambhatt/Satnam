@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8e96789449a391c47f384ecbeb641e2",
+    "revision": "4fb312127d22394c7274aa93f6701280",
     "url": "/Satnam/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Satnam/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "7cf4fa52fddfc962fcc0",
+    "revision": "e3c2a3789888b7f114b3",
     "url": "/Satnam/static/css/main.20e1eaea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Satnam/static/js/2.6c64b110.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cf4fa52fddfc962fcc0",
-    "url": "/Satnam/static/js/main.d5366249.chunk.js"
+    "revision": "e3c2a3789888b7f114b3",
+    "url": "/Satnam/static/js/main.c402cb40.chunk.js"
   },
   {
     "revision": "7c87d499f3ca36d5bb29",
